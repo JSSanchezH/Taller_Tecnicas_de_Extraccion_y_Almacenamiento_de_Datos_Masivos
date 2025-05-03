@@ -1,0 +1,277 @@
+{
+  "consulta": {
+    "ciudad": "Lima",
+    "pais": "Perú",
+    "timestamp_consulta": "2025-03-31T15:55:49Z"
+  },
+  "clima_actual": {
+    "temperatura_c": 25.0,
+    "condicion": "Parcialmente Nublado",
+    "humedad_porcentaje": 53,
+    "viento": {
+      "velocidad_kmh": 7,
+      "direccion": "NNO"
+    },
+    "sensacion_termica_c": 22.3
+  },
+  "pronostico_proximas_horas": [
+    {
+      "hora": "16:00",
+      "temperatura_c": 25.6,
+      "condicion": "Tormenta Eléctrica",
+      "prob_precipitacion_%": 41
+    },
+    {
+      "hora": "17:00",
+      "temperatura_c": 26.7,
+      "condicion": "Lluvias",
+      "prob_precipitacion_%": 47
+    },
+    {
+      "hora": "18:00",
+      "temperatura_c": 27.1,
+      "condicion": "Lluvias",
+      "prob_precipitacion_%": 47
+    },
+    {
+      "hora": "19:00",
+      "temperatura_c": 26.1,
+      "condicion": "Lluvias Intensas",
+      "prob_precipitacion_%": 95
+    },
+    {
+      "hora": "20:00",
+      "temperatura_c": 27.6,
+      "condicion": "Tormenta Eléctrica",
+      "prob_precipitacion_%": 91
+    },
+    {
+      "hora": "21:00",
+      "temperatura_c": 28.7,
+      "condicion": "Mayormente Nublado",
+      "prob_precipitacion_%": 21
+    },
+    {
+      "hora": "22:00",
+      "temperatura_c": 30.4,
+      "condicion": "Lluvias Ligeras",
+      "prob_precipitacion_%": 93
+    },
+    {
+      "hora": "23:00",
+      "temperatura_c": 30.1,
+      "condicion": "Lluvias",
+      "prob_precipitacion_%": 59
+    },
+    {
+      "hora": "00:00",
+      "temperatura_c": 31.6,
+      "condicion": "Neblina",
+      "prob_precipitacion_%": 24
+    },
+    {
+      "hora": "01:00",
+      "temperatura_c": 33.0,
+      "condicion": "Nublado",
+      "prob_precipitacion_%": 56
+    },
+    {
+      "hora": "02:00",
+      "temperatura_c": 32.7,
+      "condicion": "Neblina",
+      "prob_precipitacion_%": 22
+    },
+    {
+      "hora": "03:00",
+      "temperatura_c": 33.8,
+      "condicion": "Despejado",
+      "prob_precipitacion_%": 8
+    },
+    {
+      "hora": "04:00",
+      "temperatura_c": 33.3,
+      "condicion": "Neblina",
+      "prob_precipitacion_%": 27
+    },
+    {
+      "hora": "05:00",
+      "temperatura_c": 34.5,
+      "condicion": "Lluvias",
+      "prob_precipitacion_%": 43
+    },
+    {
+      "hora": "06:00",
+      "temperatura_c": 34.7,
+      "condicion": "Lluvias Intensas",
+      "prob_precipitacion_%": 84
+    },
+    {
+      "hora": "07:00",
+      "temperatura_c": 35.0,
+      "condicion": "Mayormente Nublado",
+      "prob_precipitacion_%": 55
+    },
+    {
+      "hora": "08:00",
+      "temperatura_c": 35.0,
+      "condicion": "Parcialmente Nublado",
+      "prob_precipitacion_%": 41
+    },
+    {
+      "hora": "09:00",
+      "temperatura_c": 34.7,
+      "condicion": "Lluvias",
+      "prob_precipitacion_%": 82
+    },
+    {
+      "hora": "10:00",
+      "temperatura_c": 35.0,
+      "condicion": "Neblina",
+      "prob_precipitacion_%": 26
+    },
+    {
+      "hora": "11:00",
+      "temperatura_c": 34.5,
+      "condicion": "Neblina",
+      "prob_precipitacion_%": 10
+    },
+    {
+      "hora": "12:00",
+      "temperatura_c": 35.0,
+      "condicion": "Lluvias Intensas",
+      "prob_precipitacion_%": 56
+    },
+    {
+      "hora": "13:00",
+      "temperatura_c": 35.0,
+      "condicion": "Lluvias",
+      "prob_precipitacion_%": 61
+    },
+    {
+      "hora": "14:00",
+      "temperatura_c": 35.0,
+      "condicion": "Lluvias Ligeras",
+      "prob_precipitacion_%": 93
+    },
+    {
+      "hora": "15:00",
+      "temperatura_c": 35.0,
+      "condicion": "Parcialmente Nublado",
+      "prob_precipitacion_%": 37
+    },
+    {
+      "hora": "16:00",
+      "temperatura_c": 35.0,
+      "condicion": "Mayormente Nublado",
+      "prob_precipitacion_%": 29
+    },
+    {
+      "hora": "17:00",
+      "temperatura_c": 33.9,
+      "condicion": "Parcialmente Nublado",
+      "prob_precipitacion_%": 52
+    },
+    {
+      "hora": "18:00",
+      "temperatura_c": 34.0,
+      "condicion": "Tormenta Eléctrica",
+      "prob_precipitacion_%": 73
+    },
+    {
+      "hora": "19:00",
+      "temperatura_c": 34.6,
+      "condicion": "Parcialmente Nublado",
+      "prob_precipitacion_%": 57
+    },
+    {
+      "hora": "20:00",
+      "temperatura_c": 34.2,
+      "condicion": "Parcialmente Nublado",
+      "prob_precipitacion_%": 30
+    },
+    {
+      "hora": "21:00",
+      "temperatura_c": 34.4,
+      "condicion": "Neblina",
+      "prob_precipitacion_%": 17
+    },
+    {
+      "hora": "22:00",
+      "temperatura_c": 35.0,
+      "condicion": "Lluvias",
+      "prob_precipitacion_%": 54
+    },
+    {
+      "hora": "23:00",
+      "temperatura_c": 34.6,
+      "condicion": "Lluvias Intensas",
+      "prob_precipitacion_%": 88
+    },
+    {
+      "hora": "00:00",
+      "temperatura_c": 33.9,
+      "condicion": "Lluvias",
+      "prob_precipitacion_%": 49
+    },
+    {
+      "hora": "01:00",
+      "temperatura_c": 34.0,
+      "condicion": "Lluvias",
+      "prob_precipitacion_%": 47
+    },
+    {
+      "hora": "02:00",
+      "temperatura_c": 34.4,
+      "condicion": "Parcialmente Nublado",
+      "prob_precipitacion_%": 41
+    },
+    {
+      "hora": "03:00",
+      "temperatura_c": 34.2,
+      "condicion": "Parcialmente Nublado",
+      "prob_precipitacion_%": 29
+    },
+    {
+      "hora": "04:00",
+      "temperatura_c": 35.0,
+      "condicion": "Tormenta Eléctrica",
+      "prob_precipitacion_%": 58
+    },
+    {
+      "hora": "05:00",
+      "temperatura_c": 35.0,
+      "condicion": "Parcialmente Nublado",
+      "prob_precipitacion_%": 43
+    },
+    {
+      "hora": "06:00",
+      "temperatura_c": 34.4,
+      "condicion": "Nublado",
+      "prob_precipitacion_%": 31
+    },
+    {
+      "hora": "07:00",
+      "temperatura_c": 34.8,
+      "condicion": "Lluvias Intensas",
+      "prob_precipitacion_%": 80
+    },
+    {
+      "hora": "08:00",
+      "temperatura_c": 35.0,
+      "condicion": "Mayormente Nublado",
+      "prob_precipitacion_%": 51
+    },
+    {
+      "hora": "09:00",
+      "temperatura_c": 35.0,
+      "condicion": "Despejado",
+      "prob_precipitacion_%": 2
+    },
+    {
+      "hora": "10:00",
+      "temperatura_c": 35.0,
+      "condicion": "Nublado",
+      "prob_precipitacion_%": 38
+    }
+  ]
+}
